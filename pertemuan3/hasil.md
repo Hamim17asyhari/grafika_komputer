@@ -2,7 +2,8 @@
 <img width="960" height="995" alt="hub pixel" src="https://github.com/user-attachments/assets/65993005-e7cd-48f6-bf31-470cbd4ec606" />
 
 ## 2. praktikum1koor
-<img width="960" height="995" alt="praktik2koor" src="https://github.com/user-attachments/assets/b7ce721f-1ffc-47ff-988e-51ef84429d0a" />
+<img width="960" height="995" alt="praktik1koor" src="https://github.com/user-attachments/assets/45b5fd6d-0d6d-4314-9a11-8129a002032a" />
+
 
 ## 3. praktikum2koor
 <img width="960" height="995" alt="praktik2koor" src="https://github.com/user-attachments/assets/cafb9cff-8a2c-4acc-93f7-7051b23c61dc" />
