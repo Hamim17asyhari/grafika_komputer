@@ -13,3 +13,7 @@
 
 ## 5. garis
 <img width="960" height="1020" alt="garis" src="https://github.com/user-attachments/assets/c959613c-5895-4c19-9f40-bd592c790607" />
+
+## tabel perbandingan
+
+<img width="533" height="704" alt="hasiltbl" src="https://github.com/user-attachments/assets/8d614dcf-44fd-4f6d-9312-f6028a2d16aa" />
