@@ -1,0 +1,24 @@
+=== PROYEK MINI SCENE EDUKATIF 3D (PYTHON) ===
+
+Cara Menjalankan:
+1. Buka aplikasi Thonny IDE.
+2. Buka file "main.py" yang ada di folder ini.
+3. Klik tombol Run (Panah Hijau).
+
+Kontrol Keyboard:
+- [W, A, S, D] : Memutar Objek (Rotasi)
+- [Panah Atas/Bawah/Kiri/Kanan] : Menggeser Objek (Translasi)
+- [Q / E] : Memperbesar atau Memperkecil Objek (Skala)
+- [R] : Refleksi / Cermin (Membalikkan skala sumbu X)
+- [SPACE] : Ganti Mode Proyeksi (Perspektif <-> Ortogonal)
+- [F] : Ganti Mode Tampilan (Solid <-> Wireframe/Rangka)
+
+Penjelasan Edukatif:
+Program ini dibuat DARI NOL (Scratch) tanpa game engine, untuk mendemonstrasikan:
+1. Vertex & Face: Bagaimana komputer menyimpan bentuk 3D sebagai titik dan poligon.
+2. Matriks Transformasi: Perhitungan matematika saat Anda memutar/menggeser objek.
+3. Proyeksi: Bagaimana dunia 3D 'digepengkan' menjadi gambar 2D di layar monitor.
+4. Pencahayaan (Flat Shading): Menghitung terang/gelap berdasarkan arah permukaan (Normal).
+
+Semua logika matematika ada di file "engine_3d.py".
+Silakan pelajari kodenya untuk memahami rumus-rumusnya!
